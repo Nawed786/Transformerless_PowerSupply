@@ -7,4 +7,6 @@ This systems contains:
 - that
 - then
 
+
+![image](https://raw.githubusercontent.com/Nawed786/Transformerless_PowerSupply/refs/heads/main/Transformerless%20Power%20Supply_AngularView.png)
 list solve
