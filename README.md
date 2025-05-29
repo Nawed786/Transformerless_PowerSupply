@@ -1,4 +1,4 @@
-# Readme file for the Repo
+# Transformerless Power Supply Project
 
 This is a sample project of Powerless Transformer system by Nawed Ahmad.
 
